@@ -1,4 +1,4 @@
-# Multiple Regression {#multiple-regression}
+# Multiple Regression {#multiple-regression} 
 
 ```{r, include=FALSE, purl=FALSE}
 # Used to define Learning Check numbers:
